@@ -1,0 +1,60 @@
+/* border */
+
+
+.all{
+    border: 10px white solid;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+}
+.title{
+    background-color: #1D2475;
+    color : white;
+    padding : 5px;
+    text-align : right;
+}
+.title h2{
+    color : #CCCCCC;
+    font-size : 14pt;
+}
+
+body{
+    background-image: url("https://selab.hanyang.ac.kr/courses/cse326/2019/labs/images/3/blueTextureBG.jpg");
+}
+#sidebar{
+    color : rgb(228, 238, 231);
+    border: 4px #1D2475 solid;
+    background-color: rgb(15, 70, 210);
+    padding: 10px;
+    margin-top : 10px;
+    margin-right : 5px;
+    border-radius: 15px;
+    float: left;
+}
+.right{overflow : hidden;}
+
+.content{
+    border: 4px #1D2475 solid;
+    background-color: #99CCFF;
+    border-radius: 15px;
+    padding: 5px;
+    margin-top : 10px;
+    overflow : hidden;
+}
+.content img{float : right;}
+
+
+::selection {
+    background-color: #fff2ac;
+}
+
+
+.h2_content {
+    border-bottom : 2px blue dashed;
+}
+
+
+
+*:hover:not([class]):not(html):not(body){
+    background-color: #A6CE39;
+}
