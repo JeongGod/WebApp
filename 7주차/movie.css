@@ -1,0 +1,49 @@
+body {
+    font-size : 8pt;
+    background-image : url(background.png);
+    vertical-align: center;
+    text-align: center;
+}
+
+.main {
+    margin-left : auto;
+    margin-right : auto;
+    width : 800px;
+    border : solid 4px gray;
+    border-radius: 20px;
+}
+#movie{
+    float : right;
+    overflow: hidden;
+}
+
+#top_content {
+    background-image: url(rbg.png);
+    float : left;
+    clear : right;
+    font : 48pt bold;
+    color : red;
+    background-repeat : repeat-x;
+    overflow: hidden;
+}
+
+#top {
+    background-image: url(bannerbg.png);
+    /* text-align : center; */
+}
+
+h1 {
+    font : bold;
+    font-size: 24pt;
+    text-shadow : -3px 3px #999999;
+    /* text-align: center; */
+}
+
+.main p{
+    width : 550px;
+}
+
+.content {
+    border : solid 4px gray;
+    border-radius: 20px;
+}
