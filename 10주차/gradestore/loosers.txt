@@ -1,0 +1,15 @@
+aaaaaa;aaaaaa;6234567812345678;Visa
+aaaaaa;aaaaaa;6234567812345678;MasterCard
+aaaaaa;aaaaaa;5234567812345678;MasterCard
+aaaaaa;aaaaaa;4234567812345678;MasterCard
+aaaaaa;aaaaaa;3234567812345678;MasterCard
+aaaaaa;aaaaaa;3234567812345678;Visa
+aaaaaa;aaaaaa;5234567812345678;Visa
+aaaaaa;aaaaaa;5234567812345678;Visa
+aaaaaa;aaaaaa;6234567812345678;Visa
+aaaaaa;aaaaaa;5234567812345678;MasterCard
+aaaaaa;aaaaaa;5234567812345678;Visa
+aaa;aaaa;4234567812345678;visa
+aaa;aaaa;5234567812345678;MasterCard
+aaaa;aaaa;4234567812345678;visa
+aaaa;aaaa;5234567812345678;MasterCard
